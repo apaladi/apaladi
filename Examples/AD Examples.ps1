@@ -1830,4 +1830,3 @@ sn4509684y.ilo.ch
 Fix "download pending" in the Company Portal:
  I get this issue sometimes when testing out apps. I’ve had to fix it by going into Apps and Features, do Advanced Settings for Company Portal,and then do Terminate, Repair, and Reset. All 3 settings.
  Then what I tend to do is restart the Microsoft Intune Management Extension in services.msc, then open company portal, logout and log back in.
- 
